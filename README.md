@@ -4,4 +4,5 @@
 
 ### Projeto 1 - Pisca
 
-![image](https://github.com/mogfores/Arduino/assets/89140035/92c85a57-792e-4f4f-99ab-fd09a725a5ac)
+![image](https://github.com/mogfores/Arduino/assets/89140035/03e58a46-d89e-4929-8616-9d0c1f419af0)
+
