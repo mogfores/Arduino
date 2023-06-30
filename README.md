@@ -1,6 +1,6 @@
 ## Arduino
 
-* Curso de Robótica utilizando o Arduíno. \n
+* Curso de Robótica utilizando o Arduíno.
 
 ### Projeto 1 - Pisca
 
